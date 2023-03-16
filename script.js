@@ -41,3 +41,8 @@ if (forma === "retangulo") {
 }
 
 console.log (area); //resultado deu 35 sem mesmo sem chamar a const area;
+
+// tipagem dinâmica
+
+let minhaVar = 567;
+minhaVar = "texto"
